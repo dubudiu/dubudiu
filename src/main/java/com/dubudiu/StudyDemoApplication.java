@@ -1,4 +1,4 @@
-package com.dubudiu.thread.demo;
+package com.dubudiu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.dubudiu.test;
+package com.dubudiu.test.displacement;
 
 public class DisplacementTest {
 
